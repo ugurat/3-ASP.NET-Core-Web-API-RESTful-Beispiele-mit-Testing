@@ -1,0 +1,6 @@
+@Bsp01_HostAddress = http://localhost:5199
+
+GET {{Bsp01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

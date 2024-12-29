@@ -1,0 +1,38 @@
+# Build artifacts
+bin/
+obj/
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.userosscache
+*.sln.ide
+
+# Dependency directories
+packages/
+.vs/
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+*.vscode/
+*.sln.ide/
+
+# Resharper
+_ReSharper*
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# Generated files
+*.GeneratedMSBuildEditorConfig.editorconfig
+*.AssemblyReference.cache
+*.genruntimeconfig.cache
